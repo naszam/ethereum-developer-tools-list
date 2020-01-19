@@ -26,6 +26,7 @@ Ethereum開発で利用可能なツール、コンポーネント、パターン
 * [Truffle](http://truffleframework.com) - もっともポピュラーなスマートコントラクトの開発、テスト、デプロイ用フレームワーク。npmでインストールしこのツールで最初のスマートコントラクトを書いてみてください。
 * [Metamask](https://metamask.io/) - DAppsと連携するChrome拡張ウォレット。
 * [Truffle boxes](http://truffleframework.com/boxes/) - Ethereumエコシステムのためのパッケージされたコンポーネント。
+* [dfuse](https://dfuse.io) - 世界クラスのアプリケーションを構築するための滑らかなブロックチェーンAPI。
 
 ## 開発ツール
 ### スマートコントラクト開発
@@ -61,6 +62,7 @@ Ethereum開発で利用可能なツール、コンポーネント、パターン
 * [Private networks deployment scripts](https://github.com/ConsenSys/private-networks-deployment-scripts) - プライベートPoAチェーン構築のためのクリエイティブなスクリプト。  
 * [Local Ethereum Network](https://github.com/ConsenSys/local_ethereum_network) - プライベートPoWチェーン構築のためのクリエイティブなスクリプト。  
 * [Ethereum on Azure](https://docs.microsoft.com/en-us/azure/blockchain-workbench/ethereum-poa-deployment) - コンソーシアムEthereumネットワークの構築とガバナンス。
+* [getho](https://getho.io) - PoAプライベートプロックチェーンとスマートコントラクトのテスティングツールを持つDApp開発プラットフォーム
 
 #### テスト用のEther faucets
 * [Rinkeby faucet](https://faucet.rinkeby.io/)
@@ -76,6 +78,7 @@ Ethereum開発で利用可能なツール、コンポーネント、パターン
     * [Ethereumjs](https://github.com/ethereumjs/) - [ethereumjs-util](https://github.com/ethereumjs/ethereumjs-util) や [ethereumjs-tx](https://github.com/ethereumjs/ethereumjs-tx)のようなEthereumのユーティリティ集
 
 * [Drizzle](https://github.com/truffle-box/drizzle-box) -  フロントエンドからブロックチェーンに繋ぐためのReduxライブラリ
+* [dfuse](https://github.com/dfuse-io/client-js) - [dfuse Ethereum API](https://dfuse.io)を使用するTypeScriptライブラリ
 * [Subproviders](https://github.com/0xProject/0x-monorepo/tree/v2-prototype/packages/subproviders) - [Web3-provider-engine](https://github.com/MetaMask/provider-engine/) と接続するためのいくつかの便利なsubproviders(ハードウェアウォレットLedgerサポートをdAppに追加するためのLedgerSubproviderを含む)
 * [web3-webpacked](https://github.com/NoahHydro/web3-webpacked) - Web3を利用するためのJSフレームワーク。
 * [Vortex](https://github.com/Horyus/vortex) - DApp対応したReduxストア。WebSocketでスマートでダイナミックなバックグラウンドデータの更新が可能。 [Truffle](https://github.com/Horyus/vortex-demo)と[Embark](https://github.com/Horyus/vortex-demo-embark)で利用可能。
